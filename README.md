@@ -25,7 +25,10 @@ console.log("Hi")
 
 ````
 
-[]()、<>可以弄出超連結
+```
+"[文字](網址)"、<>可以弄出超連結
+```
+
 [google.com](http://google.com)
 <http://www.google.com>
 
